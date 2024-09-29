@@ -1,0 +1,8 @@
+Pillow==10.0.0
+torch==2.4.0
+torchvision==0.19.0
+opencv-python==4.8.0.74
+matplotlib==3.8.0
+ultralytics==8.0.148
+pandas==2.1.1
+ipython==8.16.1

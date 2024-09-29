@@ -1,0 +1,13 @@
+train: ../IVUF-100-1/train/images
+val: ../IVUF-100-1/valid/images
+test: ../IVUF-100-1/test/images
+
+nc: 1
+names: ["Lumen"]
+
+roboflow:
+  workspace: exscan
+  project: ivuf-100
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/exscan/ivuf-100/dataset/1
