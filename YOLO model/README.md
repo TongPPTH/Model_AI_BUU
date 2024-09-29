@@ -2,7 +2,6 @@
 
 ```
 python model.py
-
 ```
 
 # Can't run?
@@ -31,5 +30,4 @@ _now you can Run Yolov8 model_
 
 ```
 python model.py
-
 ```
