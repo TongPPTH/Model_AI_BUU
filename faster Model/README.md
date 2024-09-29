@@ -1,4 +1,4 @@
-# Run SSD model
+# Run Faster R-CNN model
 
 ```
 python model.py
